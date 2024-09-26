@@ -58,6 +58,30 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Instalación
+
+1. Clona el repositorio en tu máquina local:
+
+git clone https://github.com/Ajolotico/Quickbet-movies-api.git
+
+2. Navega al directorio del proyecto:
+
+cd Quickbet-movies/api
+
+3. Instala las dependencias necesarias:
+
+npm install
+
+## Ejecución
+
+Para ejecutar el servidor del proyecto en modo de desarrollo, usa el siguiente comando en la ruta /api:
+
+npm run start:dev
+
+Esto levantará el cliete en http://localhost:5001.
+
+para acceder a la documentacion acceder a http://localhost:5001/swagger
+
 ## Resources
 
 Check out a few resources that may come in handy when working with NestJS:
